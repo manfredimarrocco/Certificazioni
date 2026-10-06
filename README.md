@@ -23,12 +23,14 @@ Raccolta dei documenti pubblici relativi al mio percorso nell'audit dei sistemi 
 
 Attestati di competenza rilasciati da **Mastermind Assurance** a seguito del completamento della formazione e del relativo esame. I badge collegano alle credenziali personali su Credly.
 
-## Qualifica ACM CERT
+## Qualifiche ACM CERT
+
+<a href="https://github.com/manfredimarrocco/Certificazioni/blob/main/Attestato-idoneita-Auditor-Lead-Auditor-ISO-22301-2019.pdf"><img src="https://www.acmcert.net/wp-content/uploads/2021/03/cropped-logo-quadrato-512.fw_-1-180x180.png" alt="Lead Auditor ISO 22301:2019 — ACM CERT: apri attestato" width="130"></a>
 
 | Qualifica | Rilascio | Scadenza | Credenziale | Attestato |
 | --- | --- | --- | --- | --- |
 | Lead Auditor ISO 22301:2019 | 6 ottobre 2026 | Non indicata | A22301. 26-10.06.1 | [Apri attestato di idoneità](https://github.com/manfredimarrocco/Certificazioni/blob/main/Attestato-idoneita-Auditor-Lead-Auditor-ISO-22301-2019.pdf) |
 
-Qualificato come **Lead Auditor ISO 22301:2019** per i sistemi di gestione della continuità operativa, dopo il superamento di un corso di 24 ore. L'attestato di idoneità è rilasciato da **ACM CERT S.r.l.** e riporta il corso al n. 113 del Registro dei Corsi Riconosciuti AICQ SICEV; il documento indica che contenuti formativi ed esame sono riconosciuti ai fini dell'iter di certificazione AICQ SICEV. La scadenza non è indicata nell'attestato. La copia pubblica ha il codice fiscale oscurato.
+Attestato di idoneità rilasciato da **ACM CERT S.r.l.**, con superamento dell’esame. L’icona collega direttamente al documento originale pubblicato nel repository.
 
 [Profilo professionale e progetti](https://manfredimarrocco.blog/)
