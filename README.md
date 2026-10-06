@@ -27,8 +27,8 @@ Attestati di competenza rilasciati da **Mastermind Assurance** a seguito del com
 
 | Qualifica | Rilascio | Scadenza | Credenziale | Attestato |
 | --- | --- | --- | --- | --- |
-| Auditor / Lead Auditor di sistemi per la continuità operativa secondo ISO 22301:2019 | 6 ottobre 2026 | Non indicata | A22301. 26-10.06.1 | [Apri attestato di idoneità](https://github.com/manfredimarrocco/Certificazioni/blob/main/Attestato-idoneita-Auditor-Lead-Auditor-ISO-22301-2019.pdf) |
+| Lead Auditor ISO 22301:2019 | 6 ottobre 2026 | Non indicata | A22301. 26-10.06.1 | [Apri attestato di idoneità](https://github.com/manfredimarrocco/Certificazioni/blob/main/Attestato-idoneita-Auditor-Lead-Auditor-ISO-22301-2019.pdf) |
 
-Qualificato come **Auditor / Lead Auditor di sistemi per la continuità operativa** dopo il superamento di un corso di 24 ore. L'attestato di idoneità è rilasciato da **ACM CERT S.r.l.** e riporta il corso al n. 113 del Registro dei Corsi Riconosciuti AICQ SICEV; il documento indica che contenuti formativi ed esame sono riconosciuti ai fini dell'iter di certificazione AICQ SICEV. La scadenza non è indicata nell'attestato. La copia pubblica ha il codice fiscale oscurato.
+Qualificato come **Lead Auditor ISO 22301:2019** per i sistemi di gestione della continuità operativa, dopo il superamento di un corso di 24 ore. L'attestato di idoneità è rilasciato da **ACM CERT S.r.l.** e riporta il corso al n. 113 del Registro dei Corsi Riconosciuti AICQ SICEV; il documento indica che contenuti formativi ed esame sono riconosciuti ai fini dell'iter di certificazione AICQ SICEV. La scadenza non è indicata nell'attestato. La copia pubblica ha il codice fiscale oscurato.
 
 [Profilo professionale e progetti](https://manfredimarrocco.blog/)
