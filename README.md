@@ -25,7 +25,7 @@ Attestati di competenza rilasciati da **Mastermind Assurance** a seguito del com
 
 ## Qualifiche ACM CERT
 
-<a href="https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20auditor%2022301.pdf"><img src="https://www.acmcert.net/wp-content/uploads/2021/03/cropped-logo-quadrato-512.fw_-1-180x180.png" alt="Lead Auditor ISO 22301:2019 — ACM CERT: apri attestato" width="130"></a>
+<a href="https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20auditor%2022301.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.acmcert.net/wp-content/uploads/2024/08/LOGO-ACM-WHITE-351.fw_.png"><img src="https://www.acmcert.net/wp-content/uploads/2021/03/cropped-logo-quadrato-512.fw_-1-180x180.png" alt="Lead Auditor ISO 22301:2019 — ACM CERT: apri attestato" width="180"></picture></a>
 
 | Qualifica | Rilascio | Scadenza | Credenziale | Attestato |
 | --- | --- | --- | --- | --- |
