@@ -25,11 +25,11 @@ Attestati di competenza rilasciati da **Mastermind Assurance** a seguito del com
 
 ## Qualifiche ACM CERT
 
-<a href="https://github.com/manfredimarrocco/Certificazioni/blob/main/Attestato-idoneita-Auditor-Lead-Auditor-ISO-22301-2019.pdf"><img src="https://www.acmcert.net/wp-content/uploads/2021/03/cropped-logo-quadrato-512.fw_-1-180x180.png" alt="Lead Auditor ISO 22301:2019 — ACM CERT: apri attestato" width="130"></a>
+<a href="https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20auditor%2022301"><img src="https://www.acmcert.net/wp-content/uploads/2021/03/cropped-logo-quadrato-512.fw_-1-180x180.png" alt="Lead Auditor ISO 22301:2019 — ACM CERT: apri attestato" width="130"></a>
 
 | Qualifica | Rilascio | Scadenza | Credenziale | Attestato |
 | --- | --- | --- | --- | --- |
-| Lead Auditor ISO 22301:2019 | 6 ottobre 2026 | Non indicata | A22301. 26-10.06.1 | [Apri attestato di idoneità](https://github.com/manfredimarrocco/Certificazioni/blob/main/Attestato-idoneita-Auditor-Lead-Auditor-ISO-22301-2019.pdf) |
+| Lead Auditor ISO 22301:2019 | 6 ottobre 2026 | Non indicata | A22301. 26-10.06.1 | [Apri attestato di idoneità](https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20auditor%2022301) |
 
 Attestato di idoneità rilasciato da **ACM CERT S.r.l.**, con superamento dell’esame. L’icona collega direttamente al documento originale pubblicato nel repository.
 
