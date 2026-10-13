@@ -30,7 +30,8 @@ Attestati di competenza rilasciati da **Mastermind Assurance** a seguito del com
 | Qualifica | Rilascio | Scadenza | Credenziale | Attestato |
 | --- | --- | --- | --- | --- |
 | Lead Auditor ISO 22301:2019 | 6 ottobre 2026 | Non indicata | A22301. 26-10.06.1 | [Apri attestato di idoneità](https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20auditor%2022301.pdf) |
+| Attestato di idoneità — ISO 19011:2026 | 13 ottobre 2026 | Non indicata | A19011.26-10.13.1 | [Apri attestato](https://github.com/manfredimarrocco/Certificazioni/blob/main/Attestato%20ISO%2019011%202026.pdf) |
 
-Attestato di idoneità rilasciato da **ACM CERT S.r.l.**, con superamento dell’esame. L’icona collega direttamente al documento originale pubblicato nel repository.
+Attestati di idoneità rilasciati da **ACM CERT S.r.l.**; ciascun collegamento apre il documento originale nel repository.
 
 [Profilo professionale e progetti](https://manfredimarrocco.blog/)
