@@ -1,7 +1,7 @@
 # Certificazioni e attestati — Manfredi Marrocco
 
 
-Raccolta dei documenti pubblici relativi al mio percorso nell'audit dei sistemi di gestione. Per l'ente emittente, la data e l'ambito di ciascun attestato, fare riferimento al documento originale.
+Raccolta dei documenti pubblici relativi al mio percorso nell'audit dei sistemi di gestione. Per l'ente emittente, la data e l'ambito, fare riferimento al singolo attestato. I PDF ISO 9001 e ISO/IEC 27001 sono copie pubbliche con il codice fiscale oscurato; gli originali sono conservati privatamente.
 
 
 | Documento | File |
@@ -21,11 +21,11 @@ Raccolta dei documenti pubblici relativi al mio percorso nell'audit dei sistemi 
 
 | Qualifica | Rilascio | Scadenza | Credenziale | Attestato |
 | --- | --- | --- | --- | --- |
-| Lead Auditor ISO/IEC 42001:2023 | 16 ottobre 2026 | Non indicata | A42001.26-10.16.1 | [Apri attestato ACM CERT](https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20Auditor%20ISO%20IEC%2042001%202023%20-%20ACM%20CERT%20-%20pubblico.pdf) |
+| Lead Auditor ISO/IEC 42001:2023 | 16 ottobre 2026 | Non indicata | A42001.26-10.16.1 | [Apri copia pubblica ACM CERT](https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20Auditor%20ISO%20IEC%2042001%202023%20-%20ACM%20CERT%20-%20pubblico.pdf) |
 | Lead Auditor ISO 22301:2019 | 6 ottobre 2026 | Non indicata | A22301. 26-10.06.1 | [Apri attestato di idoneità](https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20auditor%2022301.pdf) |
 | Attestato di idoneità — ISO 19011:2026 | 13 ottobre 2026 | Non indicata | A19011.26-10.13.1 | [Apri attestato](https://github.com/manfredimarrocco/Certificazioni/blob/main/Attestato%20ISO%2019011%202026.pdf) |
 
-Attestati di idoneità rilasciati da **ACM CERT S.r.l.**; ciascun collegamento apre il documento originale nel repository.
+Attestati di idoneità rilasciati da **ACM CERT S.r.l.**; i collegamenti aprono i documenti pubblici nel repository. L’attestato ACM ISO/IEC 42001 è una copia pubblica con il codice fiscale oscurato.
 
 ## Qualifiche Mastermind Assurance
 
