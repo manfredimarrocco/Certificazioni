@@ -40,3 +40,9 @@ Attestati di idoneità rilasciati da **ACM CERT S.r.l.**; i collegamenti aprono 
 Attestati di competenza rilasciati da **Mastermind Assurance** a seguito del completamento della formazione e del relativo esame. I badge collegano alle credenziali personali su Credly.
 
 [Profilo professionale e progetti](https://manfredimarrocco.blog/)
+
+## Auditor/Lead Auditor ISO 37001:2025
+
+Attestato di idoneità — corso con esame sui sistemi di gestione per la prevenzione della corruzione (**ACM CERT**, 16 ore). Corso concluso il 2 novembre 2026; attestato emesso il 4 novembre 2026. Corso n. 363 del Registro dei Corsi Riconosciuti AICQ SICEV. L’attestato non costituisce certificazione personale accreditata.
+
+[Apri il PDF pubblico oscurato](https://github.com/manfredimarrocco/Certificazioni/blob/main/ISO_37001_2025_Auditor_Lead_Auditor_Attestato.pdf).
