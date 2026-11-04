@@ -21,11 +21,14 @@ Raccolta dei documenti pubblici relativi al mio percorso nell'audit dei sistemi 
 
 | Qualifica | Rilascio | Scadenza | Credenziale | Attestato |
 | --- | --- | --- | --- | --- |
-| Lead Auditor ISO/IEC 42001:2023 | 16 ottobre 2026 | Non indicata | A42001.26-10.16.1 | [Apri copia pubblica ACM CERT](https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20Auditor%20ISO%20IEC%2042001%202023%20-%20ACM%20CERT%20-%20pubblico.pdf) |
-| Lead Auditor ISO 22301:2019 | 6 ottobre 2026 | Non indicata | A22301. 26-10.06.1 | [Apri attestato di idoneità](https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20auditor%2022301.pdf) |
-| Attestato di idoneità — ISO 19011:2026 | 13 ottobre 2026 | Non indicata | A19011.26-10.13.1 | [Apri attestato](https://github.com/manfredimarrocco/Certificazioni/blob/main/Attestato%20ISO%2019011%202026.pdf) |
+| Lead Auditor ISO/IEC 42001:2023 | 16 ottobre 2026 | Non indicata | A42001.26-10.16.1 | [Apri PDF](https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20Auditor%20ISO%20IEC%2042001%202023%20-%20ACM%20CERT%20-%20pubblico.pdf) |
+| Lead Auditor ISO 22301:2019 | 6 ottobre 2026 | Non indicata | A22301. 26-10.06.1 | [Apri PDF](https://github.com/manfredimarrocco/Certificazioni/blob/main/Lead%20auditor%2022301.pdf) |
+| Attestato di idoneità — ISO 19011:2026 | 13 ottobre 2026 | Non indicata | A19011.26-10.13.1 | [Apri PDF](https://github.com/manfredimarrocco/Certificazioni/blob/main/Attestato%20ISO%2019011%202026.pdf) |
+| Auditor/Lead Auditor ISO 37001:2025 | 4 novembre 2026 | Non indicata | A37001.26-11.04.1 | [Apri PDF](https://github.com/manfredimarrocco/Certificazioni/blob/main/ISO_37001_2025_Auditor_Lead_Auditor_Attestato.pdf) |
 
 Attestati di idoneità rilasciati da **ACM CERT S.r.l.**; i collegamenti aprono i documenti pubblici nel repository. L’attestato ACM ISO/IEC 42001 è una copia pubblica con il codice fiscale oscurato.
+
+ISO 37001:2025 — Auditor/Lead Auditor course completion and examination (ACM CERT). Attestato di idoneità, corso con esame di 16 ore sulla prevenzione della corruzione; corso concluso il 2 novembre 2026, iscritto al n. 363 del Registro Corsi Riconosciuti AICQ SICEV. Non costituisce certificazione personale accreditata.
 
 ## Qualifiche Mastermind Assurance
 
@@ -41,8 +44,3 @@ Attestati di competenza rilasciati da **Mastermind Assurance** a seguito del com
 
 [Profilo professionale e progetti](https://manfredimarrocco.blog/)
 
-## Auditor/Lead Auditor ISO 37001:2025
-
-Attestato di idoneità — corso con esame sui sistemi di gestione per la prevenzione della corruzione (**ACM CERT**, 16 ore). Corso concluso il 2 novembre 2026; attestato emesso il 4 novembre 2026. Corso n. 363 del Registro dei Corsi Riconosciuti AICQ SICEV. L’attestato non costituisce certificazione personale accreditata.
-
-[Apri il PDF pubblico oscurato](https://github.com/manfredimarrocco/Certificazioni/blob/main/ISO_37001_2025_Auditor_Lead_Auditor_Attestato.pdf).
